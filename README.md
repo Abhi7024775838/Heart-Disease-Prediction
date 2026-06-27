@@ -44,14 +44,14 @@ https://heart-disease-prediction-bx9vq8yzpbad9xzss5y9nb.streamlit.app
 
 | File | Description |
 |------|-------------|
-| `HeartdiseaseFinal.ipynb` | ML model training notebook |
-| `app.py` | Streamlit web application |
-| `heart (1).csv` | Heart disease dataset |
-| `heart_sql1.sql` | SQL queries for analysis |
 | `heart dashboard1.pbix` | Power BI dashboard |
-| `knn_heart_model.pkl` | Trained ML model |
-| `heart_scaler.pkl` | Scaler file |
+| `heart_.csv` | Heart disease dataset |
 | `heart_columns.pkl` | Feature columns |
+| `heart_diseasefinal.ipynb` | ML model training notebook |
+| `heart_scaler.pkl` | Scaler file |
+| `app.py` | Streamlit web application |
+| `heart_sql1.sql` | SQL queries for analysis |
+| `knn_heart_model.pkl` | Trained ML model |
 
 ---
 
