@@ -23,7 +23,7 @@ The application predicts whether a patient has a **High Risk** or **Low Risk** o
 ## Live Demo
 
 🔗 Streamlit App:
-https://heart-disease-prediction-bx9vq8yzpbad9xzss5y9nb.streamlit.app
+https://heart-disease-prediction-5wt2g4hypygqrssqeyvxjm.streamlit.app/
 ---
 
 # 🛠️ Technologies Used
